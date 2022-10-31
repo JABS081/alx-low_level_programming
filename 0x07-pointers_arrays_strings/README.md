@@ -18,5 +18,6 @@ Tasks
 	Write a function that prints the sum of the two diagonals of a square matrix of integers.
 8. Double pointer, double fun
 	Write a function that sets the value of a pointer to a char.
-9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
-	Create a file that contains the password for the crackme2 executable.
+9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure,also to access the password 
+Open the file using vim 101-crackme_password when you see the vim window, don't use the insert mode, just type :set binary and hit enter type :set noeol and hit enter use the insert mode (I) and type abc123 ESC :wq
+,these helps --	Create a file that contains the password for the crackme2 executable.
